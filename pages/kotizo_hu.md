@@ -13,30 +13,30 @@
 
 ## 35 €
 
-### Ĉu vi estas HEJ-ano, aŭ volas esti?
+### MIESZ-tag vagy, vagy az szeretnél lenni?
 
-|sub 18|60% rabato|**4200 HUF**|14 €|
+|18 év alatt|60% kedvezmény|**4200 HUF**|14 €|
 |-|-|-|-|
-|**sub 30**|**30% rabato**|**7350 HUF**|**24,50 €**|
+|**30**év alatt|**30% kedvezmény**|**7350 HUF**|**24,50 €**|
 
-Pagado surloke en HUF.
+Fizetés a helyszínen forintban.
 
-Se vi tamen volas jam antaŭe pagi (nur la tutan sumon!), bv. sendi mesaĝon de via ekranfoto kun pruvo de la pagado al [jer@jer.hu](mailto:jer@jer.hu).
+Ha mégis szeretnél előre fizetni (csak a teljes összeget!), küldd el e-mailben a képernyőd pillanatképét, amivel igazolod a fizetést, a következő e-mail címre: [jer@jer.hu](mailto:jer@jer.hu).
 
-Pageblecoj: [eszperanto-ifjusag.hu/p/miesz.html](http://www.eszperanto-ifjusag.hu/p/miesz.html)
-*Vi ne povas partopreni tuttempe? [Skribu al ni!](mailto:jer@jer.hu)*
+Fizetési lehetőségek: [eszperanto-ifjusag.hu/p/miesz.html](http://www.eszperanto-ifjusag.hu/p/miesz.html)
+*Nem tudsz részt venni teljes időben? [Írj nekünk!](mailto:jer@jer.hu)*
 
-|Loĝado|1 nokto|2 noktoj|
+|Szállás|1 éjszaka|2 éjszaka|
 |-------|-------|-------|
 ||2700 HUF|4800 HUF|
 ||9 €|16 €|
 
-|Manĝado|matene|tage|vespere|tuta JER|
+|Étkezés|reggeli|ebéd|vacsora|teljes JER|
 |------|------|------|------|------|
 ||525 HUF|1050 HUF|750 HUF|4650 HUF|
 ||1,25 €|3,50 €|2,50 €|15,50 €|
 
 
-# Aliĝilo
+# Jelentkezés
 
-## [<i class="fa fa-arrow-right"></i> Ĉu vi volas aliĝi? <i class="fa fa-arrow-left"></i>](https://docs.google.com/forms/d/1kuHr1AI6Bcv2-mTSCMdL3cUA0WoNJNYt_RY8zYOpB9c/viewform)
+## [<i class="fa fa-arrow-right"></i> Akarsz jelentkezni? <i class="fa fa-arrow-left"></i>](https://docs.google.com/forms/d/1kuHr1AI6Bcv2-mTSCMdL3cUA0WoNJNYt_RY8zYOpB9c/viewform)
