@@ -11,10 +11,10 @@
 
 ### Végre idén lesz kirándulás!
 
-Okaze - *kaj sub la egido* - de la internacia frenezultago - la plej diversaj kaj amuzaj malseriozaĵoj.
+A nemzetközi bolondok napja alkalmából - *és égisze alatt* - a legkülönbözőbb és vicces komolytalanságok.
 
-**Mernél résztvenni?**
+**Van bátorságod résztvenni?**
 
 <iframe width="850" height="555" frameborder="0" src="https://docs.google.com/spreadsheets/d/1GICHQ_4vLDaVjvSkNrZyWkh4DDpXLo5GF2N9g-Zuek4/pubhtml?gid=1829085880&widget=false&chrome=false&gridlines=false&headers=false&range=A1%3AG16"></iframe>
 
-Kontribuoj al la programo klare bonvenas. Kontaktu Saci aŭ mesaĝu al ni per la aliĝilo, se vi volonte preparus ion.
+Szívesen fogadjuk a program hozzájárulásokat. Vedd fel a kapcsolatot Sacival vagy üzenj nekünk a jelentlezési lapon, ha szívesen készülnél valamivel.
