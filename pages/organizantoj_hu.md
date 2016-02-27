@@ -15,7 +15,7 @@
         <h3>
             <img class="img-circle" title="Saci" src="/saci.png">
             <strong>Saci</strong>
-            <span>— Prográm · Helyszin · Főszervezés</span>
+            <span>— Program · Helyszín · Főszervezés</span>
             <a href="mailto:sarolta.bago@esperanto-junularo.hu"><i class="fa fa-envelope"></i></a>
         </h3>
     </li>
@@ -44,7 +44,7 @@
         <h3>
             <img class="img-circle" title="Dáni" src="/danyi.png">
             <strong>Dáni</strong>
-            <span>— Kirandulás</span>
+            <span>— Kirándulás</span>
         </h3>
     </li>
     <li>
@@ -64,7 +64,7 @@
     <li>
         <h3>
             <img class="img-circle" title="Teo" src="/teo.png">
-            <strong>Teo</strong>
+            <strong>Teó</strong>
             <span>— Segítő</span>
         </h3>
     </li>
