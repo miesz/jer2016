@@ -12,7 +12,7 @@
 # Helyszin
 
 
-#### **La vilaĝo** troviĝas proksime al la urbo **Székesfehérvár**, ĉ. duonvoje inter la ĉefurbo **Budapeŝto** kaj la lago **Balatono**. Ĝi situas borde de lago (**Velencei tó**), kaj ĝi apartenas al la urbo Gárdony.
+#### **A falu** **Székesfehérvár** közelében található, körülbelül félúton a főváros **Budapest** és a **Balaton** között. A **Velencei tó** partján fekszik, és Gárdonyhoz tartozik.
 
 **Dinnyési Templomkert és Hagyományőrző Turisztikai Központ**  
 Gárdonyi Géza utca 25.  
@@ -20,24 +20,24 @@ Gárdonyi Géza utca 25.
 
 GPS: <a href="geo:47.17769,18.56501?z=19" id="geo_uri">`47.17769 18.56535`</a>
 
-### Kiel alveni?
-Plej rapidas, kompreneble, alflugi per balailo… Tamen, se vi ne volas riski malkaŝiĝon de viaj kapabloj, indas elekti la tradiciajn senmagiajn kaj enuajn transportilojn. Sed se vi trovas kunvojaĝantojn, la afero tuj iĝos pli interesa!
+### Megközelítés
+Leggyorsabban, természetesen, seprűn repülve lehet megközelíteni… Mégis, ha nem akarod leleplezni a képességeidet, érdemes hagyományos, mágiamentes, de unalmas járműveket választani. De ha találsz utazótársakat, az út rögtön érdekesebbé válik!
 
-- **aŭte**: via GPS, OpenStreetMap kaj GoogleMaps estas viaj amikoj ;·)
-- **trajne**: de/tra Budapeŝto (stacioj "Déli" aŭ "Kelenföld") aŭ Székesfehérvár,
-trajnoj ekas en ĉiu horo - ekde la 4a aŭrore ĝis ĉ. la 23a horo
-- **piede**: nur 2 minutoj da promeno!
+- **autóval**: a GPS, OpenStreetMap és GoogleMaps a barátaid ;·)
+- **vonattal**: Budapestről (a Déli vagy Kelenföld állomásokról) vagy Székesfehérvárról,
+óránként indulnak vonatok - hajnali négytől körülbelül este 11 óráig
+- **gyalog**: csak két perc séta!
 
 <iframe width="100%" height="350px" frameBorder="0" src="http://umap.openstreetmap.fr/fr/map/jer-2016_70576?scaleControl=true&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false"></iframe>
-<a href="http://umap.openstreetmap.fr/fr/map/jer-2016_70576">*Afiŝi pli grandan mapon*</a>
+<a href="http://umap.openstreetmap.fr/fr/map/jer-2016_70576">*Mutasd a nagyobb térképet*</a>
 
-### Pri la ejo
+### A helyről
 
-- <i class="fa fa-check-circle"></i> tre proksime al la trajnstacio
-- <i class="fa fa-check-circle"></i> bela ĉirkaŭaĵo: granda kaj verda libera spaco ekstere, benkoj, scenejo, tradicia bakforno
-- <i class="fa fa-check-circle"></i> la ĉefa konstruaĵo: bela, moderna, pura, kun multaj kaj grandaj fenestroj :) kaj pluraj programejoj
-- <i class="fa fa-check-circle"></i> la dua, malpli nova konstruaĵo estas aliflanke de la korto, kaj se la loko sufiĉos en la ĉefa (ĝis ĉ. 30-40 personoj), tiukaze ni ĉiuj loĝos en la sama konstruaĵo
-- <i class="fa fa-check-circle"></i> loĝado: en amasloĝejecaj ĉambroj, tio estas: sur komfortaj matracoj, 8-15 personoj en la sama ĉambro, plejparte en ĉambro kun etaj ŝranketoj
-- <i class="fa fa-check-circle"></i> duŝejoj, necesejoj (en la ĉefa konstruaĵo): koridore, sed ambaŭ ŝloseblaj kaj modernaj, belaj
+- <i class="fa fa-check-circle"></i> nagyon közel van az állomáshoz
+- <i class="fa fa-check-circle"></i> szép környezet: nagy és zöld szabad tér, padok, színpad, hagyományos kemence
+- <i class="fa fa-check-circle"></i> a főépület: szép, modern, tiszta, sok nagy ablakkal :) és sok programhelyszínnel
+- <i class="fa fa-check-circle"></i> a második, régebbi épület az udvar mások oldalán van, és ha elférünk a főépületben (körülbelül 30-40 főig), akkor mind ugyanabban az épületben fogunk lakni
+- <i class="fa fa-check-circle"></i> szállás: több fős szobákban, azaz: kényelmes matracokon, 8-15 főig egy szobábn, főleg szobákban kis szekrényekkel
+- <i class="fa fa-check-circle"></i> zuhanyzók, mellékhelységek (a főépületben): a folyosón, zárhatóak és modernek
 
-## **[Nézz meg a képeket](/hu/fotoj/)**
+## **[Nézd meg a képeket](/hu/fotoj/)**
