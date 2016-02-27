@@ -1,5 +1,5 @@
 <!-- 
-.. title: Programo
+.. title: Program
 .. slug: programo
 .. date: 2016-01-13 19:09:57 UTC+01:00
 .. tags: 

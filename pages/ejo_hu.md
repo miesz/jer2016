@@ -1,5 +1,5 @@
 <!--
-.. title: Helyszin Bejelentkés
+.. title: Helyszin
 .. slug: ejo
 .. date: 2016-01-13 19:12:50 UTC+01:00
 .. tags:

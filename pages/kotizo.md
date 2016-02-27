@@ -27,15 +27,15 @@ Pageblecoj: [eszperanto-ifjusag.hu/p/miesz.html](http://www.eszperanto-ifjusag.h
 
 *Vi ne povas partopreni tuttempe? [Skribu al ni!](mailto:jer@jer.hu)*
 
-|Loĝado|1 nokto|2 noktoj|
-|-|-|-|
-||2700 HUF|4800 HUF|
-||9 €|16 €|
+|Loĝado|1 nokto|2 noktoj|littukoj|
+|--------|--------|--------|--------|
+|        |2100 HUF|4200 HUF| 600 HUF|
+|        |     7 €|    14 €|     2 €|
 
 |Manĝado|matene|tage|vespere|tuta JER|
-|-|-|-|-|-|
-||525 HUF|1050 HUF|750 HUF|4650 HUF|
-||1,25 €|3,50 €|2,50 €|15,50 €|
+|-------|------|----|-------|--------|
+|  |525 HUF|1050 HUF|750 HUF|4650 HUF|
+|       |1,25 €|3,50 €|2,50 €|15,50 €|
 
 
 # Aliĝilo
@@ -45,7 +45,6 @@ Pageblecoj: [eszperanto-ifjusag.hu/p/miesz.html](http://www.eszperanto-ifjusag.h
 ### Jam <b id="nb">multaj</b> frenezuloj!
 <ul id="persons"></ul>
 
-<script src="../assets/js/tabletop.js"></script>
 <script type="text/javascript">
     window.onload = function() { init() };
     var public_url =    "https://docs.google.com/spreadsheets/d/1I7-1SKUjmcEj7X8IrdpCCAKyrnzYawBymnFOX2F58Uw/pubhtml?gid=1068216995&single=true";
@@ -57,6 +56,4 @@ Pageblecoj: [eszperanto-ifjusag.hu/p/miesz.html](http://www.eszperanto-ifjusag.h
             });
         } } )
     }
-
-    
 </script>
