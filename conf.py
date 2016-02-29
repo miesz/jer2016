@@ -1124,7 +1124,7 @@ GLOBAL_CONTEXT = {
             'icon': "<i class='fa fa-share-square-o'></i>"
         },
         {
-            'url': "https://www.facebook.com/events/951238551590674/",
+            'url': "https://www.facebook.com/events/1521878341445571/",
             "bgcolor": "#3B5998",
             "color": "#fffff",
             "icon": "<i class='fa fa-facebook'></i>",
