@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-## 10500 HUF
+## 10.500 Ft
 
 ## 35 €
 
@@ -24,7 +24,8 @@ Fizetés a helyszínen forintban.
 Ha mégis szeretnél előre fizetni (csak a teljes összeget!), küldd el e-mailben a képernyőd pillanatképét, amivel igazolod a fizetést, a következő e-mail címre: [jer@jer.hu](mailto:jer@jer.hu).
 
 Fizetési lehetőségek: [eszperanto-ifjusag.hu/p/miesz.html](http://www.eszperanto-ifjusag.hu/p/miesz.html)
-*Nem tudsz részt venni teljes időben? [Írj nekünk!](mailto:jer@jer.hu)*
+
+*Itt láthatod a részletes költségtáblázatot (a feljebb jelzett 10.500 Ft / 35 € a teljes összeg, szállással és étkezéssel együtt).*
 
 |Szállás|1 éjszaka|2 éjszaka|ágynemű|
 |--------|--------|--------|--------|
@@ -39,7 +40,7 @@ Fizetési lehetőségek: [eszperanto-ifjusag.hu/p/miesz.html](http://www.eszpera
 
 # Jelentkezés
 
-## [<i class="fa fa-arrow-right"></i> Akarsz jelentkezni? <i class="fa fa-arrow-left"></i>](https://docs.google.com/forms/d/1kuHr1AI6Bcv2-mTSCMdL3cUA0WoNJNYt_RY8zYOpB9c/viewform)
+## [<i class="fa fa-arrow-right"></i> Jelentkezni szeretnél? <i class="fa fa-arrow-left"></i>](https://docs.google.com/forms/d/1kuHr1AI6Bcv2-mTSCMdL3cUA0WoNJNYt_RY8zYOpB9c/viewform)
 
 
 ### Már <b id="nb">sok</b> bolond!
