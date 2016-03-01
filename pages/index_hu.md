@@ -14,7 +14,7 @@
 </div>
 <br>
 
-## Talán ez az első látogatásod az oldalunkon, és kíváncsi vagy, mi vár rád a találkozón!
+## Talán ez az első látogatásod az oldalunkon, és kíváncsi vagy, mi vár rád a találkozón:
 
 #### <i class="fa fa-star"></i> Egy hétvége nemzetközi, fiatalos hangulatban
 #### <i class="fa fa-random"></i> Egyedi és [szórakoztató program](/hu/programo) - idén speciális bolondos programpontokkal
