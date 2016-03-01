@@ -25,7 +25,7 @@ Se vi tamen volas jam antaŭe pagi (nur la tutan sumon!), bv. sendi mesaĝon de 
 
 Pagebloj: [eszperanto-ifjusag.hu/p/miesz.html](http://www.eszperanto-ifjusag.hu/p/miesz.html)
 
-*Jen la detala kotiztabelo (la supre indikita 10500 HUF / 35 € estas la tuttempa kosto, kun manĝado).*
+*Jen la detala kotiztabelo (la supre indikita 10500 HUF / 35 € estas la tuttempa kosto, kun manĝado kaj loĝado dum la tuta aranĝo).*
 
 |Loĝado|1 nokto|2 noktoj|littukoj|
 |--------|--------|--------|--------|
