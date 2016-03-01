@@ -9,12 +9,13 @@
 .. type: text
 -->
 
-### Végre idén lesz kirándulás!
+### Idén végre lesz kirándulás!
+A részletek erről hamarosan - addig is, a jelentkezési lapan már megjelölheted, milyen típusú kirándulás érdekele.
 
-A nemzetközi bolondok napja alkalmából - *és égisze alatt* - a legkülönbözőbb és vicces komolytalanságok.
+A nemzetközi bolondok napja alkalmából - *és égisze alatt* - a legkülönbözőbb és legviccesebb komolytalanságok.
 
-**Van bátorságod résztvenni?**
+**Van merszed résztvenni?**
 
 <iframe width="850" height="555" frameborder="0" src="https://docs.google.com/spreadsheets/d/1GICHQ_4vLDaVjvSkNrZyWkh4DDpXLo5GF2N9g-Zuek4/pubhtml?gid=1829085880&widget=false&chrome=false&gridlines=false&headers=false&range=A1%3AG16"></iframe>
 
-Szívesen fogadjuk a program hozzájárulásokat. Vedd fel a kapcsolatot Sacival vagy üzenj nekünk a jelentlezési lapon, ha szívesen készülnél valamivel.
+**A programfelajánlásoknak mindig nagyon örülünk! :)** Vedd fel a kapcsolatot Sacival (sarolta [pont] bago [kukac] esperanto-junularo.hu) vagy üzenj nekünk a jelentlezési lapon, ha szívesen készülnél valamivel.
