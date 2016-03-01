@@ -10,10 +10,10 @@
 -->
 
 ### Ĉi-foje ni finfine havas ekskuson!
-
-Okaze - *kaj sub la egido* - de la internacia frenezultago - la plej diversaj kaj amuzaj malseriozaĵoj.
+Detaloj pri ĉi tiu programero baldaŭ - kaj ĝis tiam: vi jam povas signi al ni per la aliĝilo, kian ekskurson vi ŝatus partopreni (t. e. organizigi kun ni).
 
 **Ĉu vi kuraĝas partopreni?**
+Okaze - *kaj sub la egido* - de la internacia frenezultago - la plej diversaj kaj amuzaj malseriozaĵoj.
 
 <iframe width="850" height="555" frameborder="0" src="https://docs.google.com/spreadsheets/d/1GICHQ_4vLDaVjvSkNrZyWkh4DDpXLo5GF2N9g-Zuek4/pubhtml?gid=1829085880&widget=false&chrome=false&gridlines=false&headers=false&range=A1%3AG16"></iframe>
 
