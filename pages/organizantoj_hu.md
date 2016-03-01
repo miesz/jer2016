@@ -33,11 +33,18 @@
             <span>— Pénzügyek</span>
         </h3>
     </li>
+        <li>
+        <h3>
+            <img class="img-circle" title="Teo" src="/teo.png">
+            <strong>Teó</strong>
+            <span>— Étkezés</span>
+        </h3>
+    </li>
     <li>
         <h3>
             <img class="img-circle" title="Laci" src="/laci.png">
             <strong>Laci</strong>
-            <span>— Bár</span>
+            <span>— Éjszakai program</span>
         </h3>
     </li>
     <li>
@@ -58,13 +65,6 @@
         <h3>
             <img class="img-circle" title="Veronika" src="/veronika.png">
             <strong>Veronika</strong>
-            <span>— Segítő</span>
-        </h3>
-    </li>
-    <li>
-        <h3>
-            <img class="img-circle" title="Teo" src="/teo.png">
-            <strong>Teó</strong>
             <span>— Segítő</span>
         </h3>
     </li>
