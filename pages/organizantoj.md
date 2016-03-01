@@ -32,6 +32,13 @@
             <span>— Financoj</span>
         </h3>
     </li>
+        <li>
+        <h3>
+            <img class="img-circle" title="Teo" src="/teo.png">
+            <strong>Teo</strong>
+            <span>— Manĝado</span>
+        </h3>
+    </li>
     <li>
         <h3>
             <img class="img-circle" title="Laci" src="/laci.png">
@@ -43,7 +50,7 @@
         <h3>
             <img class="img-circle" title="Dáni" src="/danyi.png">
             <strong>Dáni</strong>
-            <span>— Ekskurso</span>
+            <span>— Ekskursoj</span>
         </h3>
     </li>
     <li>
@@ -57,13 +64,6 @@
         <h3>
             <img class="img-circle" title="Veronika" src="/veronika.png">
             <strong>Veronika</strong>
-            <span>— Helpanto</span>
-        </h3>
-    </li>
-    <li>
-        <h3>
-            <img class="img-circle" title="Teo" src="/teo.png">
-            <strong>Teo</strong>
             <span>— Helpanto</span>
         </h3>
     </li>
