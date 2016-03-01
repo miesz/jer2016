@@ -23,9 +23,9 @@ Pagado surloke en HUF.
 
 Se vi tamen volas jam antaŭe pagi (nur la tutan sumon!), bv. sendi mesaĝon de via ekranfoto kun pruvo de la pagado al [jer@jer.hu](mailto:jer@jer.hu).
 
-Pageblecoj: [eszperanto-ifjusag.hu/p/miesz.html](http://www.eszperanto-ifjusag.hu/p/miesz.html)
+Pagebloj: [eszperanto-ifjusag.hu/p/miesz.html](http://www.eszperanto-ifjusag.hu/p/miesz.html)
 
-*Vi ne povas partopreni tuttempe? [Skribu al ni!](mailto:jer@jer.hu)*
+*Jen la detala kotiztabelo (la supre indikita 10500 HUF / 35 € estas la tuttempa kosto, kun manĝado).*
 
 |Loĝado|1 nokto|2 noktoj|littukoj|
 |--------|--------|--------|--------|
