@@ -85,7 +85,7 @@ NAVIGATION_LINKS = {
         ("/programo/", "Programo"),
         ("/ejo/", "Ejo"),
         ("/kotizo/", "Kotizo Aliĝilo"),
-        # ("/ekskursoj/", "Ekskursoj"),
+        ("/ekskursoj/", "Ekskursoj"),
         ("/organizantoj/", "Organizantoj"),
     ),
 
@@ -767,7 +767,7 @@ CONTENT_FOOTER_FORMATS = {
 # systems.  The following comment systems are supported by Nikola:
 #   disqus, facebook, googleplus, intensedebate, isso, livefyre, muut
 # You can leave this option blank to disable comments.
-COMMENT_SYSTEM = ""
+COMMENT_SYSTEM = "colaua"
 # And you also need to add your COMMENT_SYSTEM_ID which
 # depends on what comment system you use. The default is
 # "nikolademo" which is a test account for Disqus. More information

@@ -1,0 +1,24 @@
+## -*- coding: utf-8 -*-
+
+## A simplified version of Nikola's ``comments_helper.tmpl``
+## that only supports Colaua.
+
+<%namespace name="colaua" file="comments_helper_colaua.tmpl"/>
+
+<%def name="comment_form(url, title, identifier)">
+    %if comment_system == 'colaua':
+        ${colaua.comment_form(url, title, identifier)}
+    %endif
+</%def>
+
+<%def name="comment_link(link, identifier)">
+    %if comment_system == 'colaua':
+        ${colaua.comment_link(link, identifier)}
+    %endif
+</%def>
+
+<%def name="comment_link_script()">
+    %if comment_system == 'colaua':
+        ${colaua.comment_link_script()}
+    %endif
+</%def>

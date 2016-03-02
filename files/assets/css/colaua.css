@@ -1,0 +1,36 @@
+
+
+    /* Styles for GNU social notices pulled by Colaua. */
+
+    /* begin colaua */
+
+    ol.notices {
+        list-style-type: none;
+        padding-left: 1em;
+        padding-right: 1em;
+    }
+
+    li.notice {
+        padding-bottom: 1em;
+        margin-bottom: 1em;
+        border-bottom: 1px solid #cccccc;
+    }
+
+    .notice-headers {
+        margin-bottom: 0.5em;
+    }
+
+    .notice-headers .p-author .u-photo {
+        float: left;
+        margin-right: 8px;
+        margin-bottom: 8px;
+    }
+
+    .notice-headers .notice-title {
+        float: right;
+        font-size: 75%;
+    }
+
+    /* end colaua */
+
+This page was generated in about 0.007s by Fossil version [568dced21a] 2014-06-21 19:33:03 

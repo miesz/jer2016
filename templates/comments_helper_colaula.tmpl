@@ -1,0 +1,22 @@
+## -*- coding: utf-8 -*-
+
+## Colaua's implementation of Nikola's comment system support templates.
+
+<%def name="comment_form(url, title, identifier)">
+    %if post.meta('colaua-url'):
+        <div id="colaua-conversation" data-colaua-url="${post.meta('colaua-url')}">
+        Please enable JavaScript to show comments from a GNU social conversation on this topic.
+        </div>
+        <script src="/assets/js/mithril.min.js"></script>
+        <script src="/assets/js/colaua.js"></script>
+    %else:
+        <p>This post has not been linked to a GNU social conversation.</p>
+    %endif
+</%def>
+
+<%def name="comment_link(link, identifier)">
+    <a href="${link}#colaua-conversation">Comments</a>
+</%def>
+
+<%def name="comment_link_script()">
+</%def>

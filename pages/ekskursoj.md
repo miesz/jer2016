@@ -7,6 +7,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. colaua-url: https://lamatriz.org/notice/374696
 -->
 
 Skribu tie vian paĝon.
