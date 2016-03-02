@@ -9,9 +9,6 @@
 .. type: text
 -->
 
-# Helyszín
-
-
 #### **A falu** **Székesfehérvár** közelében található, körülbelül félúton **Budapest** és a **Balaton** között. A **Velencei tó** partján fekszik és Gárdonyhoz tartozik.
 
 **Dinnyési Templomkert és Hagyományőrző Turisztikai Központ**  

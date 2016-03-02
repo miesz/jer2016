@@ -1,5 +1,5 @@
 <!--
-.. title: Bejelentkezés
+.. title: Jelentkezés
 .. slug: kotizo
 .. date: 2016-02-25 20:28:50 UTC+01:00
 .. tags:
@@ -16,8 +16,8 @@
 ### MIESZ-tag vagy, vagy az szeretnél lenni?
 
 |18 év alatt|60% kedvezmény|**4200 HUF**|14 €|
-|-|-|-|-|
-|**30**év alatt|**30% kedvezmény**|**7350 HUF**|**24,50 €**|
+|-----------|-----------|-----------|-----------|
+|**30 év alatt**|**30% kedvezmény**|**7350 HUF**|**24,50 €**|
 
 Fizetés a helyszínen forintban.
 
@@ -48,7 +48,7 @@ Fizetési lehetőségek: [eszperanto-ifjusag.hu/p/miesz.html](http://www.eszpera
 
 <script type="text/javascript">
     window.onload = function() { init() };
-    var public_url =    "https://docs.google.com/spreadsheets/d/1I7-1SKUjmcEj7X8IrdpCCAKyrnzYawBymnFOX2F58Uw/pubhtml?gid=1068216995&single=true";
+    var public_url = "https://docs.google.com/spreadsheets/d/1I7-1SKUjmcEj7X8IrdpCCAKyrnzYawBymnFOX2F58Uw/pubhtml?gid=1068216995&single=true";
     function init() {
         Tabletop.init( { key: public_url, simpleSheet: true, callback: function(data, tabletop) {
             $('#nb').html(data.length);

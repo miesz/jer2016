@@ -85,15 +85,15 @@ NAVIGATION_LINKS = {
         ("/programo/", "Programo"),
         ("/ejo/", "Ejo"),
         ("/kotizo/", "Kotizo Aliĝilo"),
-        # ("/ekskurso/", "Ekskurso"),
+        # ("/ekskursoj/", "Ekskursoj"),
         ("/organizantoj/", "Organizantoj"),
     ),
 
     "hu": (
         ("/hu/programo/", "Program"),
         ("/hu/ejo/", "Helyszin"),
-        ("/hu/kotizo/", "Bejelentkezés"),
-        # ("/hu/ekskurso/", "Kirándulás"),
+        ("/hu/kotizo/", "Jelentkezés"),
+        # ("/hu/ekskursoj/", "Kirándulások"),
         ("/hu/organizantoj/", "Szervezők"),
     ),
 }

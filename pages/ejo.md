@@ -1,5 +1,5 @@
 <!--
-.. title: Ejo Kotizo Aliĝilo
+.. title: Ejo
 .. slug: ejo
 .. date: 2016-02-01 19:12:50 UTC+01:00
 .. tags:
@@ -8,8 +8,6 @@
 .. description:
 .. type: text
 -->
-
-# Ejo
 
 #### **La vilaĝo** troviĝas proksime al la urbo **Székesfehérvár**, ĉ. duonvoje inter la ĉefurbo **Budapeŝto** kaj la lago **Balatono**. Ĝi situas borde de lago (**Velencei tó**), kaj ĝi apartenas al la urbo Gárdony.
 
