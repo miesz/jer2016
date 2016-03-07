@@ -52,7 +52,7 @@ Pagebloj: [eszperanto-ifjusag.hu/p/miesz.html](http://www.eszperanto-ifjusag.hu/
         Tabletop.init( { key: public_url, simpleSheet: true, callback: function(data, tabletop) {
             $('#nb').html(data.length);
             data.forEach(function(person) {
-                $('#persons').append('<li>'+person['Mia nomo (la oficiala)']+'</li>');
+                $('#persons').append('<li>'+person['Mia karesnomo (kiun vi ŝatus havi sur via ŝildo)']+'</li>');
             });
         } } )
     }
