@@ -12,7 +12,7 @@
 <ul id="organizantoj">
     <li>
         <h3>
-            <img class="img-circle" title="Saci" src="/saci.png">
+            <img class="img-circle" title="Saci" src="/img/saci.png">
             <strong>Saci</strong>
             <span>— Programo · Loko · Ĉeforganizado</span>
             <a href="mailto:sarolta.bago@esperanto-junularo.hu"><i class="fa fa-envelope"></i></a>
@@ -20,49 +20,49 @@
     </li>
     <li>
         <h3>
-            <img class="img-circle" title="Bálint" src="/balint.png">
+            <img class="img-circle" title="Bálint" src="/img/balint.png">
             <strong>Bálint</strong>
             <span>— Aliĝilo · Karaokeo</span>
         </h3>
     </li>
     <li>
         <h3>
-            <img class="img-circle" title="Zsozsi" src="/zsozsi.png">
+            <img class="img-circle" title="Zsozsi" src="/img/zsozsi.png">
             <strong>Zsozsi</strong>
             <span>— Financoj</span>
         </h3>
     </li>
         <li>
         <h3>
-            <img class="img-circle" title="Teo" src="/teo.png">
+            <img class="img-circle" title="Teo" src="/img/teo.png">
             <strong>Teo</strong>
             <span>— Manĝado</span>
         </h3>
     </li>
     <li>
         <h3>
-            <img class="img-circle" title="Laci" src="/laci.png">
+            <img class="img-circle" title="Laci" src="/img/laci.png">
             <strong>Laci</strong>
             <span>— Drinkejo</span>
         </h3>
     </li>
     <li>
         <h3>
-            <img class="img-circle" title="Dáni" src="/danyi.png">
+            <img class="img-circle" title="Dáni" src="/img/danyi.png">
             <strong>Dáni</strong>
             <span>— Ekskursoj</span>
         </h3>
     </li>
     <li>
         <h3>
-            <img class="img-circle" title="Stela" src="/stela.png">
+            <img class="img-circle" title="Stela" src="/img/stela.png">
             <strong>Stela</strong>
             <span>— Helpanto</span>
         </h3>
     </li>
     <li>
         <h3>
-            <img class="img-circle" title="Veronika" src="/veronika.png">
+            <img class="img-circle" title="Veronika" src="/img/veronika.png">
             <strong>Veronika</strong>
             <span>— Helpanto</span>
         </h3>

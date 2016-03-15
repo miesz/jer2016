@@ -10,7 +10,7 @@
 -->
 
 <div class="center" style="text-align:center">
-<img src="/kial_tiom_serioza.jpg">
+    <img alt="Kiam tiom serioza?" src="/img/kial_tiom_serioza.jpg">
 </div>
 <br>
 
