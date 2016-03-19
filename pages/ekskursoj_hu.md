@@ -25,3 +25,6 @@ A tiszafüredi IJS-n (2014, a MIESZ egy hetes nyári rendezvényén) nagy sikere
 ![Kerékpártúra](/img/bicikli.jpg)
 
 Ha ezt a kirándulást választod, akkor a Velencei tavat fogod körbe tekerni velünk (Gárdonyból indulunk, a táv kb. 20 km – a túra kb. 2 óráig fog tartani). Kerékpárról lehetőségünk lesz megismerni a tó településeit, illetve folyamatosan gyönyörködhetünk a tó szépségében.
+
+
+<style>img {width: 100%; margin: 1em 0;}</style>
