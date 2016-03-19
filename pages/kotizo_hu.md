@@ -49,11 +49,12 @@ Fizetési lehetőségek: [eszperanto-ifjusag.hu/p/miesz.html](http://www.eszpera
 <script type="text/javascript">
     window.onload = function() { init() };
     var public_url = "https://docs.google.com/spreadsheets/d/1I7-1SKUjmcEj7X8IrdpCCAKyrnzYawBymnFOX2F58Uw/pubhtml?gid=1068216995&single=true";
+    var header = "Mia karesnomo (kiun vi ŝatus havi sur via ŝildo) /A becenevem (amit a névtábládon szeretnél látni)";
     function init() {
         Tabletop.init( { key: public_url, simpleSheet: true, callback: function(data, tabletop) {
             $('#nb').html(data.length);
             data.forEach(function(person) {
-                $('#persons').append('<li>'+person['Mia karesnomo (kiun vi ŝatus havi sur via ŝildo)']+'</li>');
+                $('#persons').append('<li>'+person[header]+'</li>');
             });
         } } )
     }
