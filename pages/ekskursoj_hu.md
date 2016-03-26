@@ -16,15 +16,15 @@ Szombat délelőtt kétfajta kirándulás közül lehet választani:
 
 ![Kenutúra](/img/kenu.jpg)
 
-A tiszafüredi IJS-n (2014, a MIESZ egy hetes nyári rendezvényén) nagy sikere volt a kenutúrának, ezért most is gondoltunk az evezni vágyókra. Fedezzük fel együtt kenuval a Velencei tavat! A kirándulás Agárdról indul (időtartam: kb. 2 óra), és közben lehetőségünk lesz megismerni a tó varázslatos élővilágát is.
+A tiszafüredi IJS-n (2014, a MIESZ egy hetes nyári rendezvényén) nagy sikere volt a kenutúrának, ezért most is gondoltunk az evezni vágyókra. Fedezzük fel együtt kenuval a Velencei tavat! A kirándulás Agárdról indul, és közben lehetőségünk lesz megismerni a tó varázslatos élővilágát is.
+
+Időtartam: kb. 2 óra
 
 ---
 
-## Kerékpártúra
+## Séta
 
-![Kerékpártúra](/img/bicikli.jpg)
-
-Ha ezt a kirándulást választod, akkor a Velencei tavat fogod körbe tekerni velünk (Gárdonyból indulunk, a táv kb. 20 km – a túra kb. 2 óráig fog tartani). Kerékpárról lehetőségünk lesz megismerni a tó településeit, illetve folyamatosan gyönyörködhetünk a tó szépségében.
+Azoknak is van ajánlatunk, akik egy **nyugis városi sétára** vágynak, de azért **szeretnének látni valami különlegeset** is. Ezért döntöttünk úgy, hogy **elmegyünk a Várparkba**, ahol a régi magyar várak makettjei láthatók. A nézelődésen túl lehetőségünk lesz megismerni ezeknek a lenyűgöző építményeknek a történetét - és az eredetijükét is.
 
 
 <style>img {width: 100%; margin: 1em 0;}</style>

@@ -16,14 +16,14 @@ Du ekskursojn ni ofertas por la sabata antaŭtagmezo:
 
 ![Kanuumo](/img/kenu.jpg)
 
-Dum IJS 2014 (dum la unu semajna aranĝo de HEJ) oni multe ŝatis la kanuumon, tial ni denove volis organizi eblon por tiuj, kiuj ŝatus remi. La ekskurso ekas de Agárd (najbara vilaĝo), (daŭro: ĉ. 2 horoj), kaj dumtempe ni povos ekkoni ankaŭ la mirindan faŭnon de la lago.
+Dum IJS 2014 (dum la unu semajna aranĝo de HEJ) oni multe ŝatis la kanuumon, tial ni denove volis organizi eblon por tiuj, kiuj ŝatus remi. La ekskurso ekas de la najbara vilaĝo de Agárd, kaj dumtempe ni povos ekkoni ankaŭ la mirindan faŭnon de la lago.
+
+Daŭro: ĉ. 2 horoj
 
 ---
 
-## Biciklado
+## Promeno
 
-![Biciklado](/img/bicikli.jpg)
-
-Se tiun ĉi ekskurson vi ekskurson vi elektas, tiam vi biciklos kun ni rondon ĉirkaŭ la proksima lago (ekveturo de najbara vilaĝo, la biciklovojo mem estas ĉ. 20 km-a, kio daŭros ĉ. 2 horojn). Ni havos eblon interkonatiĝi kun la vilaĝoj ĉirkaŭ la lago, kaj dum la tuta tempo ni povos spekti la belegan lagon.
+Ni havas proponon ankaŭ al tiuj partoprenantoj, kiuj volas trankvile **promeni tra la urbo** kaj tamen **vidi ion eksterordinaran**. Tial ni decidis viziti la "**Ĝardenon de fortikaĵoj**", kie oni povas vidi maketojn de la aĝaj hungaraj fortikaĵoj. Krom la spektado vi eĉ havos eblon ekkoni iom la historion de tiuj mirindaj konstruaĵoj - kaj de iliaj originaloj.
 
 <style>img {width: 100%; margin: 1em 0}</style>
