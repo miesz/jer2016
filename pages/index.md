@@ -16,7 +16,7 @@
 ---
 
 <div class="center" style="text-align:center">
-    <img alt="Grupfoto" src="/img/JER2016-grupfoto.jpg">
+    <img alt="Grupfoto" src="/img/JER2016-grupfoto.jpg" width="100%">
 </div>
 
 ---

@@ -36,7 +36,7 @@ La teamo de JER 2016
 ----
 
 <div class="center" style="text-align:center">
-    <img alt="Kiam tiom serioza?" src="/img/kial_tiom_serioza.jpg">
+    <img alt="Kiam tiom serioza?" src="/img/kial_tiom_serioza.jpg" width="100%">
 </div>
 <br>
 
@@ -47,3 +47,5 @@ La teamo de JER 2016
 #### <i class="fa fa-comments"></i> Kb. 40-50 résztvevő <i class="fa fa-long-arrow-right"></i> igazi esély ismerkedni, új barátokat találni
 #### <i class="fa fa-heartbeat"></i> Tapasztalt, de fiatal és kreatív szervezőcsapat
 #### <i class="fa fa-fire"></i> Kedvező részvételi feltételek - a magyar fiataloknak külön támogatás (a MIESZ-tagoknak alacsony részvétel díj)
+
+<style>img {width: 100%; margin: 1em 0}</style>
